@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @sourabhsp23
 
 ## 🌱 Currently Learning
-I am a third-year AI and ML Engineering student at PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, and Backend Development. I'm also learning to build robust backend systems using technologies like FastAPI and other modern backend frameworks.
+I am a final year  AI and ML Engineering student at PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, . I'm also learning to build robust  systems using technologies with various  frameworks.
 
 ## 💻 Languages & Technologies I Know
 
