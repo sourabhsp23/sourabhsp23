@@ -1,5 +1,8 @@
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=AI+ML+Engineering+Student;Machine+Learning+Enthusiast;Backend+Developement;Problem" alt="Typing SVG">
+</div>
 # 👋 Hi, I’m @sourabhsp23
-## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
+
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -25,13 +28,15 @@
 ```
 
 <br><br>     
-# 👋 Hi, I’m @sourabhsp23
 
 <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="200" />
 
 
 ## 🌱 Currently Learning
 I am a final year  AI and ML Engineering student at PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, . I'm also learning to build robust  systems using technologies with various  frameworks.
+
+
+
 
 ## 💻 Languages & Technologies I Know
 
