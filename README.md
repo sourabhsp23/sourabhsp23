@@ -36,6 +36,9 @@
 ## 🌱 Currently Learning
 I am a final year  AI and ML Engineering student at PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, . I'm also learning to build robust  systems using technologies with various  frameworks.
 
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
+<br><br>
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -77,6 +80,9 @@ I am a final year  AI and ML Engineering student at PDA College of Engineering, 
 
 ## 💞️ Collaboration
 I am open to collaborating on AI, ML, data science, and backend development projects. If you're working on anything related to machine learning, data analysis, or backend systems, let's connect!
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+<br><br>
 
 ## 📫 How to Reach Me
 - 📧 Email: [sourabhspawar23@gmail.com](mailto:sourabhspawar23@gmail.com)  
