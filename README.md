@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=AI+ML+Engineering+Student;Machine+Learning+Enthusiast;Backend+Developement;Problem" alt="Typing SVG">
-</div>
-# 👋 Hi, I’m @sourabhsp23
+</div> 
+
+<h1>👋 Hi, I’m @sourabhsp23</h1>
 
 
 ```
