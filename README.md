@@ -55,7 +55,7 @@ I am open to collaborating on AI, ML, data science, and backend development proj
 
 ## 📫 How to Reach Me
 - 📧 Email: [sourabhspawar23@gmail.com](mailto:sourabhspawar23@gmail.com)  
-- 💼 LinkedIn: [Saurabh Pawar](https://www.linkedin.com/in/saurabh-pawar-453458270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 LinkedIn: [Saurabh Pawar](www.linkedin.com/in/sourabh-pawar-453458270)  
 - 💻 GitHub: [sourabhsp23](https://github.com/sourabhsp23)
 
 ## 😄 Pronouns
