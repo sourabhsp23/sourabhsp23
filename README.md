@@ -4,7 +4,7 @@
 
 
 ## 🌱 Currently Learning
-I am a final year  AI and ML Engineering student at PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, . I'm also learning to build robust  systems using technologies with various  frameworks.
+I am a MAchine Learning Engineer and  AI and ML Engineering graduate from PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, . I'm also learning to build robust  systems using technologies with various  frameworks.
 
 
 
