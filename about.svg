@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" fill="none" role="img" aria-label="About Sourabh">
+  <defs>
+    <linearGradient id="term" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/><stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#24283b"/><stop offset="100%" stop-color="#1f2335"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="299" rx="16" fill="url(#term)" stroke="#565f89" stroke-opacity="0.35"/>
+  <!-- title bar -->
+  <path d="M0 16 Q0 0 16 0 H984 Q1000 0 1000 16 V50 H0 Z" fill="url(#bar)"/>
+  <circle cx="28" cy="25" r="7" fill="#f7768e"/>
+  <circle cx="52" cy="25" r="7" fill="#e0af68"/>
+  <circle cx="76" cy="25" r="7" fill="#9ece6a"/>
+  <text x="500" y="30" text-anchor="middle" font-family="'Cascadia Code',Consolas,monospace" font-size="15" fill="#565f89">sourabh@github: ~/about</text>
+
+  <g font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="19">
+    <!-- line 1 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
+      <text x="34" y="98"><tspan fill="#9ece6a">$</tspan> <tspan fill="#7dcfff">whoami</tspan></text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze"/>
+      <text x="34" y="126" fill="#c0caf5"><tspan fill="#565f89">→</tspan> Sourabh Pawar — <tspan fill="#bb9af7" font-weight="700">AI / ML Engineer</tspan>, PDA College of Engineering</text>
+    </g>
+    <!-- line 2 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.3s" fill="freeze"/>
+      <text x="34" y="170"><tspan fill="#9ece6a">$</tspan> <tspan fill="#7dcfff">cat</tspan> focus.txt</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.8s" fill="freeze"/>
+      <text x="34" y="198" fill="#c0caf5"><tspan fill="#565f89">→</tspan> <tspan fill="#7aa2f7">Machine Learning</tspan> · <tspan fill="#7aa2f7">LLM Agents</tspan> · <tspan fill="#7aa2f7">Computer Vision</tspan> · <tspan fill="#7aa2f7">Backend</tspan></text>
+    </g>
+    <!-- line 3 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.4s" fill="freeze"/>
+      <text x="34" y="242"><tspan fill="#9ece6a">$</tspan> <tspan fill="#7dcfff">echo</tspan> $MOTTO</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze"/>
+      <text x="34" y="270" fill="#c0caf5"><tspan fill="#565f89">→</tspan> Always learning, always building <tspan fill="#e0af68">✨</tspan></text>
+      <rect x="470" y="255" width="11" height="20" fill="#c0caf5"><animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="3.2s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>

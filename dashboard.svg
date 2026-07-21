@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" fill="none" role="img" aria-label="GitHub stats and languages">
+  <defs>
+    <linearGradient id="dbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/><stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="dring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7aa2f7"/><stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="16" fill="url(#dbg)" stroke="#565f89" stroke-opacity="0.35"/>
+  <line x1="530" y1="46" x2="530" y2="234" stroke="#565f89" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- ===== LEFT: STATS ===== -->
+  <text x="44" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#bb9af7">Sourabh's GitHub Stats</text>
+  <rect x="44" y="63" width="0" height="3" rx="1.5" fill="#7aa2f7"><animate attributeName="width" values="0;270" dur="1s" fill="freeze"/></rect>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#c0caf5">
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/>
+      <text x="46" y="112" font-size="18">⭐</text><text x="76" y="112">Total Stars Earned</text><text x="360" y="112" font-weight="700" fill="#7dcfff">1</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.35s" fill="freeze"/>
+      <text x="46" y="150" font-size="18">📦</text><text x="76" y="150">Public Repositories</text><text x="360" y="150" font-weight="700" fill="#7dcfff">28</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
+      <text x="46" y="188" font-size="18">👥</text><text x="76" y="188">Followers</text><text x="360" y="188" font-weight="700" fill="#7dcfff">3</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.65s" fill="freeze"/>
+      <text x="46" y="226" font-size="18">🧠</text><text x="76" y="226">Focus Area</text><text x="360" y="226" font-weight="700" fill="#9ece6a">AI / ML</text></g>
+  </g>
+  <!-- rank ring -->
+  <g transform="translate(460,150)">
+    <circle r="46" fill="none" stroke="#24283b" stroke-width="8"/>
+    <circle r="46" fill="none" stroke="url(#dring)" stroke-width="8" stroke-linecap="round"
+            stroke-dasharray="289" stroke-dashoffset="289" transform="rotate(-90)">
+      <animate attributeName="stroke-dashoffset" values="289;60" dur="1.4s" begin="0.3s" fill="freeze"/></circle>
+    <text y="-1" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#c0caf5">A+</text>
+    <text y="20" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#565f89">since 2025</text>
+  </g>
+
+  <!-- ===== RIGHT: LANGUAGES ===== -->
+  <text x="566" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#bb9af7">Most Used Languages</text>
+  <rect x="566" y="63" width="0" height="3" rx="1.5" fill="#7aa2f7"><animate attributeName="width" values="0;250" dur="1s" fill="freeze"/></rect>
+
+  <g transform="translate(566,92)">
+    <rect width="388" height="14" rx="7" fill="#24283b"/>
+    <clipPath id="dbar"><rect width="388" height="14" rx="7"/></clipPath>
+    <g clip-path="url(#dbar)">
+      <rect x="0"   width="0" height="14" fill="#3776ab"><animate attributeName="width" values="0;170" dur="1s" begin="0.2s" fill="freeze"/></rect>
+      <rect x="170" width="0" height="14" fill="#da5b0b"><animate attributeName="width" values="0;167" dur="1s" begin="0.4s" fill="freeze"/></rect>
+      <rect x="337" width="0" height="14" fill="#3178c6"><animate attributeName="width" values="0;51"  dur="1s" begin="0.6s" fill="freeze"/></rect>
+    </g>
+  </g>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#c0caf5">
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
+      <circle cx="576" cy="150" r="6" fill="#3776ab"/><text x="590" y="155">Python</text><text x="900" y="155" text-anchor="end" fill="#565f89">43.9%</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.65s" fill="freeze"/>
+      <circle cx="576" cy="182" r="6" fill="#da5b0b"/><text x="590" y="187">Jupyter Notebook</text><text x="900" y="187" text-anchor="end" fill="#565f89">42.9%</text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze"/>
+      <circle cx="576" cy="214" r="6" fill="#3178c6"/><text x="590" y="219">TypeScript</text><text x="900" y="219" text-anchor="end" fill="#565f89">13.2%</text></g>
+  </g>
+</svg>
