@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="150" viewBox="0 0 1040 150" fill="none" role="img" aria-label="Achievements">
+  <defs>
+    <linearGradient id="tcard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/><stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#e0af68"/><stop offset="100%" stop-color="#ff9e64"/></linearGradient>
+    <linearGradient id="pur"  x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#bb9af7"/><stop offset="100%" stop-color="#9d7cd8"/></linearGradient>
+    <linearGradient id="blu"  x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#7dcfff"/><stop offset="100%" stop-color="#7aa2f7"/></linearGradient>
+    <linearGradient id="grn"  x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#9ece6a"/><stop offset="100%" stop-color="#41a6b5"/></linearGradient>
+    <linearGradient id="red"  x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#f7768e"/><stop offset="100%" stop-color="#bb9af7"/></linearGradient>
+  </defs>
+  <g transform="translate(10,10)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.00s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="10,26;10,10" dur="0.6s" begin="0.00s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="193" height="129" rx="12" fill="url(#tcard)" stroke="#565f89" stroke-opacity="0.35"/>
+    <rect x="0.5" y="0.5" width="193" height="4" rx="2" fill="url(#gold)"/>
+    <text x="97" y="58" text-anchor="middle" font-size="34">🏆</text>
+    <text x="97" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#c0caf5">28</text>
+    <text x="97" y="114" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#565f89" letter-spacing="1">Repos</text>
+  </g>
+  <g transform="translate(216,10)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="216,26;216,10" dur="0.6s" begin="0.15s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="193" height="129" rx="12" fill="url(#tcard)" stroke="#565f89" stroke-opacity="0.35"/>
+    <rect x="0.5" y="0.5" width="193" height="4" rx="2" fill="url(#pur)"/>
+    <text x="97" y="58" text-anchor="middle" font-size="34">⚡</text>
+    <text x="97" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#c0caf5">Active</text>
+    <text x="97" y="114" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#565f89" letter-spacing="1">Commits</text>
+  </g>
+  <g transform="translate(422,10)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.30s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="422,26;422,10" dur="0.6s" begin="0.30s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="193" height="129" rx="12" fill="url(#tcard)" stroke="#565f89" stroke-opacity="0.35"/>
+    <rect x="0.5" y="0.5" width="193" height="4" rx="2" fill="url(#blu)"/>
+    <text x="97" y="58" text-anchor="middle" font-size="34">🧠</text>
+    <text x="97" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#c0caf5">AI</text>
+    <text x="97" y="114" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#565f89" letter-spacing="1">ML Focus</text>
+  </g>
+  <g transform="translate(628,10)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="628,26;628,10" dur="0.6s" begin="0.45s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="193" height="129" rx="12" fill="url(#tcard)" stroke="#565f89" stroke-opacity="0.35"/>
+    <rect x="0.5" y="0.5" width="193" height="4" rx="2" fill="url(#grn)"/>
+    <text x="97" y="58" text-anchor="middle" font-size="34">💻</text>
+    <text x="97" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#c0caf5">3+</text>
+    <text x="97" y="114" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#565f89" letter-spacing="1">Languages</text>
+  </g>
+  <g transform="translate(834,10)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.60s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="834,26;834,10" dur="0.6s" begin="0.60s" fill="freeze"/>
+    <rect x="0.5" y="0.5" width="193" height="129" rx="12" fill="url(#tcard)" stroke="#565f89" stroke-opacity="0.35"/>
+    <rect x="0.5" y="0.5" width="193" height="4" rx="2" fill="url(#red)"/>
+    <text x="97" y="58" text-anchor="middle" font-size="34">🌱</text>
+    <text x="97" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#c0caf5">2025</text>
+    <text x="97" y="114" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#565f89" letter-spacing="1">Since</text>
+  </g>
+</svg>

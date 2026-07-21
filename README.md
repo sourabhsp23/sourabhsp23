@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:302b63,100:24243e&height=210&section=header&text=Hi%20👋,%20I'm%20Saurabh%20Pawar&fontSize=38&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20intelligent%20systems&descAlignY=58&descSize=17&descColor=9d7cd8" width="100%"/>
+<img src="./banner.svg?v=1" alt="Sourabh Pawar — AI / ML Engineer" width="100%"/>
 
 </div>
 
-## 🌱 Currently Learning
+<br/>
 
-I'm an AI & ML Engineering graduate from PDA College of Engineering, Kalaburgi, currently exploring Machine Learning, LLM agents, and computer vision. I enjoy building robust, production-ready systems on top of these ideas using a variety of frameworks and tools.
+## 🌱 About Me
+
+I'm an **AI & ML Engineering graduate** from PDA College of Engineering, Kalaburgi, currently exploring Machine Learning, LLM agents, and computer vision. I enjoy building robust, production-ready systems on top of these ideas using a variety of frameworks and tools.
+
+- 🔭 Working on ML pipelines, LLM agents & computer-vision projects
+- 🌱 Deep-diving into LangGraph, CrewAI and model fine-tuning
+- 💬 Ask me about **Python, Machine Learning, FastAPI & LangChain**
+- 📫 Reach me at **sourabhspawar23@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -47,18 +54,32 @@ I'm an AI & ML Engineering graduate from PDA College of Engineering, Kalaburgi, 
 
 <div align="center">
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourabhsp23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhsp23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<img src="./stats.svg?v=1" alt="GitHub Stats" height="185"/>
+<img src="./langs.svg?v=1" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+### 🏆 Highlights
+
+<img src="./trophies.svg?v=1" alt="Achievements" width="95%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sourabhsp23&theme=tokyonight&hide_border=true&background=1a1b27&ring=9d7cd8&fire=bb9af7&currStreakLabel=c0caf5" alt="GitHub Streak"/>
-
-<br/><br/>
+### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhsp23&bg_color=1a1b27&color=9d7cd8&line=bb9af7&point=c0caf5&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourabhsp23/sourabhsp23/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourabhsp23/sourabhsp23/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sourabhsp23/sourabhsp23/output/github-snake-dark.svg" width="95%"/>
+</picture>
 
 </div>
 
@@ -66,7 +87,7 @@ I'm an AI & ML Engineering graduate from PDA College of Engineering, Kalaburgi, 
 
 ## 💞️ Collaboration
 
-I am open to collaborating on AI, ML, data science, and backend development projects. If you're working on anything related to machine learning, data analysis, or backend systems, let's connect!
+I'm open to collaborating on AI, ML, data science, and backend development projects. If you're working on anything related to machine learning, data analysis, or backend systems, let's connect!
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 <br><br>
@@ -82,6 +103,16 @@ He/Him
 
 ## ⚡ Fun Fact
 I love exploring new things and immersing myself in music. Whether it's discovering new technologies or listening to different genres of music, I always enjoy learning and experiencing something fresh!
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sourabhsp23&color=9d7cd8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⭐️ Always learning, always building.*
+
+</div>
 
 <!---
 sourabhsp23/sourabhsp23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
