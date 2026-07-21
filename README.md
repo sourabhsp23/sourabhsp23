@@ -28,29 +28,43 @@
 <br/>
 
 
-## 🧰 Tech Stack
-<div align="center">
-**⚡ Languages &amp; Databases**
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb&theme=dark" alt="Languages and databases"/>
-**🤖 AI / ML &amp; Backend**
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,fastapi,flask&theme=dark" alt="AI ML and backend"/>
-**🛠️ Tools &amp; Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ts&theme=dark" alt="Tools and platforms"/>
-<br/> 
+## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**✨ Also building with**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logo=crewai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=ollama&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge&logo=groq&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00BFFF?style=for-the-badge&logo=yolo&logoColor=white)
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-</div>
+### AI/ML Tools
+![Ollama](https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=ollama&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-00FF66?style=for-the-badge&logo=groq&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
 
 <br/>
 
