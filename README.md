@@ -39,15 +39,19 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb&theme=dark" alt="Languages and databases"/>
 
+<br/><br/>
+
 **🤖 AI / ML &amp; Backend**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,fastapi,flask&theme=dark" alt="AI ML and backend"/>
+
+<br/><br/>
 
 **🛠️ Tools &amp; Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ts&theme=dark" alt="Tools and platforms"/>
 
-<br/>
+</div>
 
 **✨ Also building with**
 
