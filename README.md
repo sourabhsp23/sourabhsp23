@@ -4,17 +4,6 @@
 
 </div>
 
-<br/>
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-<img src="./about.svg?v=1" alt="About Sourabh" width="100%"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -27,6 +16,18 @@
 </picture>
 
 </div>
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+<img src="./about.svg?v=1" alt="About Sourabh" width="100%"/>
+
+</div>
+
+<br/>
+
+
 
 <br/>
 
