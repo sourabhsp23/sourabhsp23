@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg?v=2" alt="Sourabh Pawar — AI / ML Engineer" width="100%"/>
+<img src="./banner.svg?v=3" alt="Sourabh Pawar — AI / ML Engineer" width="100%"/>
 
 </div>
 
