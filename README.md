@@ -1,12 +1,12 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:302b63,100:24243e&height=210&section=header&text=Hi%20👋,%20I'm%20Saurabh%20Pawar&fontSize=38&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20intelligent%20systems&descAlignY=58&descSize=17&descColor=9d7cd8" width="100%"/>
 
-<h1>👋 Hi, I’m @sourabhsp23</h1>
-
+</div>
 
 ## 🌱 Currently Learning
-I am a Machine Learning Engineer and  AI and ML Engineering graduate from PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, . I'm also learning to build robust  systems using technologies with various  frameworks.
 
-
+I'm an AI & ML Engineering graduate from PDA College of Engineering, Kalaburgi, currently exploring Machine Learning, LLM agents, and computer vision. I enjoy building robust, production-ready systems on top of these ideas using a variety of frameworks and tools.
 
 ## 🛠️ Tech Stack
 
@@ -43,20 +43,39 @@ I am a Machine Learning Engineer and  AI and ML Engineering graduate from PDA Co
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br/>
 
+<div align="center">
 
+### 📊 GitHub Stats & Activity
 
+<img src="https://github-readme-stats.vercel.app/api?username=sourabhsp23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhsp23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sourabhsp23&theme=tokyonight&hide_border=true&background=1a1b27&ring=9d7cd8&fire=bb9af7&currStreakLabel=c0caf5" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhsp23&bg_color=1a1b27&color=9d7cd8&line=bb9af7&point=c0caf5&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
+
+</div>
+
+<br/>
 
 ## 💞️ Collaboration
+
 I am open to collaborating on AI, ML, data science, and backend development projects. If you're working on anything related to machine learning, data analysis, or backend systems, let's connect!
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 <br><br>
 
 ## 📫 How to Reach Me
-- 📧 Email: [sourabhspawar23@gmail.com](mailto:sourabhspawar23@gmail.com)  
-- 💼 LinkedIn: [Saurabh Pawar](https://www.linkedin.com/in/sourabh-pawar-453458270/)  
-- 💻 GitHub: [sourabhsp23](https://github.com/sourabhsp23)
+
+<a href="mailto:sourabhspawar23@gmail.com"><img src="https://img.shields.io/badge/Email-9d7cd8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/sourabhsp23"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sourabh-pawar-453458270/"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ## 😄 Pronouns
 He/Him
@@ -66,5 +85,5 @@ I love exploring new things and immersing myself in music. Whether it's discover
 
 <!---
 sourabhsp23/sourabhsp23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.    
---->          .....
+You can click the Preview link to take a look at your changes.
+--->
